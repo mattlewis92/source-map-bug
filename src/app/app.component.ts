@@ -1,3 +1,7 @@
+import { Gantt } from '@clickup/gantt';
+
+console.log(Gantt)
+
 import { Component } from '@angular/core';
 
 @Component({
